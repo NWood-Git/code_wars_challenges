@@ -1,4 +1,4 @@
-# Does my number look big in this?
+# Does my number look big in this? - Solved 2/10/2020
 # https://www.codewars.com/kata/5287e858c6b5a9678200083c/train/python
 
 # Instructions:
